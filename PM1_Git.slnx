@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PM1_Git.vcxproj" />
+  <Project Path="PM1_Git.vcxproj" Id="eb0dcc15-fad5-4399-a320-ae258ef728cd" />
 </Solution>
